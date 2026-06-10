@@ -37,9 +37,6 @@ diabetes-project/
 │   ├── scaler.pkl                    # StandardScaler
 │   └── risk_map.pkl                  # Mapping cluster → label risiko
 │
-├── laporan/
-│   └── artikel.docx                  # Artikel ilmiah format JINACS
-│
 ├── requirements.txt
 └── README.md
 ```
