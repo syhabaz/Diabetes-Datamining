@@ -6,7 +6,7 @@ import os
 # Page config
 st.set_page_config(
     page_title="Prediksi Risiko Diabetes",
-    page_icon="",
+    page_icon="🩺",
     layout="centered"
 )
 
