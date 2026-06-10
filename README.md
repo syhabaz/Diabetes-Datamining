@@ -145,7 +145,7 @@ Buka browser dan akses: **http://localhost:8501**
 ---
 
 ## 👤 Identitas
-
+> **Nama:** Muhammad Mirza Shahbaz Zaydan (24051214086)
 > **Mata Kuliah:** Data Mining / Knowledge Discovery in Database  
 > **Program Studi:** Sistem Informasi  
 > **Semester:** 4  
